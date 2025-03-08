@@ -1,6 +1,6 @@
 # Agri-IoT Simulator
 
-![Agri-IoT Simulator Screenshot](https://github.com/LuxuryTimepiece/agri_iot_simulator/blob/main/screenshot.png?raw=true)
+![Agri-IoT Simulator Screenshot](https://raw.githubusercontent.com/LuxuryTimepiece/agri_iot_simulator/refs/heads/main/AgIotSimDemo.gif)
 
 A terminal-based simulator for an agricultural IoT system, featuring a vibrant neon flower that indicates the sensor's status with color changes. Watch the flower glow in different colors as it monitors soil moisture, activates watering, and idles when conditions are optimal!
 
