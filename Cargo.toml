@@ -1,0 +1,14 @@
+[package]
+name = "agri_iot_simulator"
+version = "0.1.0"
+edition = "2021"
+description = "A terminal-based Agri-IoT simulator with an ASCII art flower status indicator"
+authors = LuxuryTimepiece
+license = "MIT"
+repository = "https://github.com/LuxuryTimepiece/agri_iot_simulator"
+
+[dependencies]
+rand = "0.8.5"
+tokio = { version = "1.37.0", features = ["full"] }
+ratatui = "0.26.1"
+crossterm = "0.27.0"
